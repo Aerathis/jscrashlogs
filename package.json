@@ -1,0 +1,9 @@
+{
+  "name": "crashlogs",
+  "main": "crashlogs.js",
+  "private": "true",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*"
+  }
+}
